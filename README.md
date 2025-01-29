@@ -6,17 +6,17 @@ SitWatch platformu için resmi Python API istemcisi. Bu modül ile SitWatch API'
 
 ## 📋 İçindekiler
 
-- [Özellikler](#özellikler)
-- [Kurulum](#kurulum)
-- [Hızlı Başlangıç](#hızlı-başlangıç)
-- [Detaylı Kullanım](#detaylı-kullanım)
-  - [Kimlik Doğrulama](#kimlik-doğrulama)
-  - [Video İşlemleri](#video-işlemleri)
-  - [Kullanıcı İşlemleri](#kullanıcı-işlemleri)
-  - [Topluluk İşlemleri](#topluluk-işlemleri)
-- [Örnekler](#örnekler)
-- [Hata Yönetimi](#hata-yönetimi)
-- [Lisans](#lisans)
+- [Özellikler](#-özellikler)
+- [Kurulum](#-kurulum)
+- [Hızlı Başlangıç](#-hızlı-başlangıç)
+- [Detaylı Kullanım](#-detaylı-kullanım)
+  - [Kimlik Doğrulama](#-kimlik-doğrulama)
+  - [Video İşlemleri](#-video-işlemleri)
+  - [Kullanıcı İşlemleri](#-kullanıcı-işlemleri)
+  - [Topluluk İşlemleri](#-topluluk-işlemleri)
+- [Örnekler](#-örnekler)
+- [Hata Yönetimi](#-hata-yönetimi)
+- [Lisans](#-lisans)
 
 ## ✨ Özellikler
 
